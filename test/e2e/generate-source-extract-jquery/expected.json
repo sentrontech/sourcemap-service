@@ -1,0 +1,63 @@
+{
+  "file_url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js",
+  "function": "",
+  "line": 334,
+  "column": 2,
+  "extract": [
+    {
+      "number": 329,
+      "content": "",
+      "truncated": false
+    },
+    {
+      "number": 330,
+      "content": "\t// Assume jQuery is ready without the ready module",
+      "truncated": false
+    },
+    {
+      "number": 331,
+      "content": "\tisReady: true,",
+      "truncated": false
+    },
+    {
+      "number": 332,
+      "content": "",
+      "truncated": false
+    },
+    {
+      "number": 333,
+      "content": "\terror: function( msg ) {",
+      "truncated": false
+    },
+    {
+      "number": 334,
+      "content": "\t\tthrow new Error( msg );",
+      "truncated": false
+    },
+    {
+      "number": 335,
+      "content": "\t},",
+      "truncated": false
+    },
+    {
+      "number": 336,
+      "content": "",
+      "truncated": false
+    },
+    {
+      "number": 337,
+      "content": "\tnoop: function() {},",
+      "truncated": false
+    },
+    {
+      "number": 338,
+      "content": "",
+      "truncated": false
+    },
+    {
+      "number": 339,
+      "content": "\tisPlainObject: function( obj ) {",
+      "truncated": false
+    }
+  ]
+}
